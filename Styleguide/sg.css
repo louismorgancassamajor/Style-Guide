@@ -1,0 +1,70 @@
+code.c {
+  background-color: rgb(215, 215, 215);
+}
+#htwo {
+  font-family: 'Georgia'; font-size: 30px;
+  text-decoration: underline;
+}
+.p {
+  font-family: 'Avenir'; font-size: 20px; font-weight: bold;
+}
+.p2 {
+  font-family: 'Georgia'; font-size: 20px
+}
+span.a {
+  display:inline-block
+}
+ span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+}
+.hrteal {
+  border-top: 5px dotted teal;
+}
+.hrcoral {
+  border-top: 5px dotted coral;
+}
+.Avenir {
+  font-size: larger;
+  font-weight: bold;
+}
+body {
+  background-image: url("paisley.png");
+}
+.hex1 {
+  display: inline-block;
+  width: 75px;
+  height: 75px;
+  background-color: teal;
+}
+
+.hex2 {
+  display: inline-block;
+  width: 75px;
+  height: 75px;
+  background-color: coral;
+}
+
+.hex3 {
+  display: inline-block;
+  width: 75px;
+  height: 75px;
+  background-color: turquoise;
+}
+
+.hex4 {
+  display: inline-block;
+  width: 75px;
+  height: 75px;
+  background-color: gray;
+}
+.hexwhite {
+  background-color: whitesmoke;
+  width: 75px;
+  height: 75px;
+  border: solid 3px; 
+  padding: 10px;
+  margin: 5px;
+}
